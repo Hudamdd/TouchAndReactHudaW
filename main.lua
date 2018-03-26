@@ -26,7 +26,7 @@ redButton.isVisible = false
 local textObject = display.newText ("Clicked!",0, 0, nil, 50)
 textObject.x = display.contentWidth/2
 textObject.y = display.contentHeight/3
-textObject:setTextColor (1,1,0)
+textObject:setTextColor (1 , 1 , 0)
 textObject.isVisible = true 
 
 --Function: BlueButtonListener 
